@@ -1,5 +1,17 @@
 # projectlichen.github.io
 Project Lichen documents observations from living landscapes
+
+## Navigation
+
+- 🌱 [Living Systems](living-systems.md)
+- 📓 [Field Notes](field-notes.md)
+- 🌾 [Seed Library](seed-library.md) *(coming soon)*
+- 🔬 [Research Library](research.md)
+- 💻 [Technology](technology.md)
+- 🍲 [Recipes](recipes.md)
+- 🌍 [The Commons](commons.md)
+- 🗺️ [Roadmap](roadmap.md)
+
 # Project Lichen
 
 Observing.
@@ -14,17 +26,3 @@ It explores regenerative horticulture, seed stewardship, biodiversity, fungi, so
 
 The project values evidence over certainty and curiosity over conclusions.
 
-Here are some links.
-
-# Project Lichen
-
-## Explore
-
-- [About Project Lichen](about.md)
-- [Living Systems](living-systems.md)
-- [Field Notes](field-notes.md)
-- [Research Library](research.md)
-- [Technology](technology.md)
-- [Recipes](recipes.md)
-- [The Commons](commons.md)
-- [Roadmap](roadmap.md)
