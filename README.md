@@ -1,6 +1,12 @@
 # projectlichen.github.io
 Project Lichen documents observations from living landscapes
 
+## Stewardship Across Generations
+
+*Observe carefully.
+Learn continually.
+Share generously.*
+
 ## Navigation
 
 - 🌱 [Living Systems](living-systems.md)
