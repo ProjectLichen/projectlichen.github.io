@@ -1,6 +1,20 @@
 # projectlichen.github.io
 Project Lichen documents observations from living landscapes
 
+## Stewardship Across Generations
+
+*Observe carefully.
+Learn continually.
+Share generously.*
+
+---
+
+Project Lichen is an open-source initiative dedicated to documenting, preserving and sharing knowledge about living systems across generations.
+
+We believe that resilient communities begin with healthy soils, diverse seeds, thriving pollinators, functioning ecosystems and careful observation.
+
+Every observation recorded today becomes knowledge that may benefit someone decades from now.
+
 ## Navigation
 
 - 🌱 [Living Systems](living-systems.md)
