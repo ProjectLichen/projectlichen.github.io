@@ -25,6 +25,7 @@ Every observation recorded today becomes knowledge that may benefit someone deca
 - 🍲 [Recipes](recipes.md)
 - 🌍 [The Commons](commons.md)
 - 🗺️ [Roadmap](roadmap.md)
+  - 🌱 [Regenerative Capability](regenerative-capability.md)
 
 # Project Lichen
 
