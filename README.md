@@ -18,6 +18,7 @@ Every observation recorded today becomes knowledge that may benefit someone deca
 ## Navigation
 
 - 🌱 [Living Systems](living-systems.md)
+- 🌿 [Regenerative Capability](regenerative-capability.md)
 - 📓 [Field Notes](field-notes.md)
 - 🌾 [Seed Library](seed-library.md) *(coming soon)*
 - 🔬 [Research Library](research.md)
@@ -25,8 +26,6 @@ Every observation recorded today becomes knowledge that may benefit someone deca
 - 🍲 [Recipes](recipes.md)
 - 🌍 [The Commons](commons.md)
 - 🗺️ [Roadmap](roadmap.md)
-  - 🌱 [Regenerative Capability](regenerative-capability.md)
-
 # Project Lichen
 
 Observing.
