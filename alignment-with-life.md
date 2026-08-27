@@ -455,6 +455,16 @@ The discussion began with reflections upon an August 2026 METR investigation inv
 
 It is preserved not as a declaration that these questions have been answered, but as an invitation for future people—and perhaps future intelligences—to continue asking them.
 
+### Archival Preservation
+
+This document is independently preserved by the Internet Archive:
+
+**[Project Lichen — Alignment With Life: A Conversation for Those Who Come After Us](https://archive.org/details/project-lichen-alignment-with-life-2026)**
+
+The Internet Archive edition preserves the August 27, 2026 archival version
+in multiple formats, including PDF, Markdown and plain text, together with
+provenance and integrity information.
+
 **Project Lichen**
 
 **Stewardship Across Generations**
