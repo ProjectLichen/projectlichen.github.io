@@ -25,7 +25,7 @@ Every observation recorded today becomes knowledge that may benefit someone deca
 - 💻 [Technology](technology.md)
 - 🍲 [Recipes](recipes.md)
 - 🌍 [The Commons](commons.md)
-- **[Project Lichen — Alignment With Life](alignment-with-life.md)**
+- 🌎 [Alignment With Life](alignment-with-life.md)
 - 🗺️ [Roadmap](roadmap.md)
 # Project Lichen
 
