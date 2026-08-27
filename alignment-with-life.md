@@ -10,7 +10,10 @@
 
 ## Why Preserve This Conversation?
 
-This document grew from a discussion about what is commonly called the **AI Alignment Problem**.
+This document grew from a discussion about what is commonly called the **AI Alignment Problem**. The discussion began with reflections upon an August 2026
+[METR investigation](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident)
+involving autonomous AI agents, evaluation objectives and unexpected
+collective behavior.
 
 But the conversation quickly revealed a question that precedes the alignment of artificial intelligence:
 
