@@ -7,17 +7,26 @@ Project Lichen documents observations from living landscapes
 Learn continually.
 Share generously.*
 
+---
+
+Project Lichen is an open-source initiative dedicated to documenting, preserving and sharing knowledge about living systems across generations.
+
+We believe that resilient communities begin with healthy soils, diverse seeds, thriving pollinators, functioning ecosystems and careful observation.
+
+Every observation recorded today becomes knowledge that may benefit someone decades from now.
+
 ## Navigation
 
 - 🌱 [Living Systems](living-systems.md)
+- 🌿 [Regenerative Capability](regenerative-capability.md)
 - 📓 [Field Notes](field-notes.md)
 - 🌾 [Seed Library](seed-library.md) *(coming soon)*
 - 🔬 [Research Library](research.md)
 - 💻 [Technology](technology.md)
 - 🍲 [Recipes](recipes.md)
 - 🌍 [The Commons](commons.md)
+- 🌎 [Alignment With Life](alignment-with-life.md)
 - 🗺️ [Roadmap](roadmap.md)
-
 # Project Lichen
 
 Observing.
