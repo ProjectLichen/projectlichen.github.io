@@ -6,7 +6,7 @@ Project Lichen is a framework for reconnecting living systems, energy systems, h
 
 Project Lichen views ecosystems as interconnected living systems and...
 
-It all started in 2011 in Hermosa Beach, California and nearby El Segundo, both are part of Greater LA in Southern California.  Here are highlights of how all emerged and evolved.
+It all started in 2011 in Hermosa Beach, California and nearby El Segundo, both are part of Greater LA in Southern California.  Here are highlights of how all emerged and evolved [and here is a pictorial record of most of this](https://incredibleedibleeugene.wordpress.com/blog/)   
 
 **2009** Mike Brunt (me) met Alexandra Bwye who will recur here.
 
