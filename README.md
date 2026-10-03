@@ -1,6 +1,8 @@
 # projectlichen.github.io
 Project Lichen documents observations from living landscapes
 
+![E-Cropolis — Cities That Grow](Project%20Lichen_%20E-Cropolis%20Poster-small.png)
+
 ## Stewardship Across Generations And What Capabilities Remain?
 
 *Observe carefully.
