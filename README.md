@@ -23,7 +23,7 @@ Every observation recorded today becomes knowledge that may benefit someone deca
 - 🌾 [Seed Library](seed-library.md) *(coming soon)*
 - 🔬 [Research Library](research.md)
 - 💻 [Technology](technology.md)
-- 🌍 [E-Cropolis][e-cropolis.md0
+- 🌍 [E-Cropolis](e-cropolis.md)
 - 🍲 [Recipes](recipes.md)
 - 🌍 [The Commons](commons.md)
 - 🌎 [Alignment With Life](alignment-with-life.md)
