@@ -2,6 +2,7 @@
 Project Lichen documents observations from living landscapes
 
 ## Stewardship Across Generations
+## And What Capabilities Remain?
 
 *Observe carefully.
 Learn continually.
