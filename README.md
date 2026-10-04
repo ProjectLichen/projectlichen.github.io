@@ -48,6 +48,7 @@ E-Cropolis explores the possibility of a city learning to become a living system
 
 ## Explore Project Lichen
 
+- 🌿 [Origins & Evolution](about.md)
 - 🌱 [Living Systems](living-systems.md)
 - 🌿 [Regenerative Capability](regenerative-capability.md)
 - 📓 [Field Notes](field-notes.md)
