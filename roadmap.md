@@ -156,8 +156,8 @@ Experiments may explore combinations of:
 - network devices
 - small embedded computers
 - distributed agents
-- dao-based governance
-- points-token based financial systems
+- DAO-based governance and coordination
+- points and token-based economic systems
 
 The objective is not simply to build a larger collection of computers.
 
