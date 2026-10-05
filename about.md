@@ -53,7 +53,7 @@ It all started in 2009 in Hermosa Beach, California and nearby El Segundo, both 
 
 **2017** Mike moves into Eugene city and into a permaculture community of 5 dwellings.  This started a Fava Bean journey and the Eugene Seed Exchange build out. *Back into urban environments, most food is eaten in towns and cities and urban permaculture is a key benefit system in this regard.*
 
-**2018** The formal start of the Eugene Seed Exchange begins in earnest is a long kitchen drawer. *Seeds (and spores) are at the base of most terrestrial food systems and also water-focussed fish farming.*
+**2018** The formal start of the Eugene Seed Exchange begins in earnest in a long kitchen drawer. *Seeds (and spores) are at the base of most terrestrial food systems and also water-focussed fish farming.*
 
 **2019** Mike and Jeff move into a .8 acre lawn enclosed property in Eugene and begin the Golden Urban Permaculture Institute (GUPI). *At the outset, this property looked like a small park and eventually became the largest evolving urban permaculture project we had designed and worked on.*
 
