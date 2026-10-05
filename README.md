@@ -60,7 +60,6 @@ E-Cropolis explores the possibility of a city learning to become a living system
 - 🌍 [The Commons](commons.md)
 - 🌎 [Alignment With Life](alignment-with-life.md)
 - 🗺️ [Roadmap](roadmap.md)
-- 🌿 [Origins & Evolution](about.md)
 
 ---
 
