@@ -1,12 +1,38 @@
-Project Lichen is a framework for reconnecting living systems, energy systems, human coordination, land use, technology and governance into one coherent design. We already have many pieces in place and working; the most active part of this, being The Fabaceae Food Forest; we introduced this concept [here](https://foodscaping.substack.com/p/the-fabaceae-food-forest-concept).
+# About Us - Origins & Evolution
 
-# About Us
+> **Project Lichen did not begin as a theoretical framework.**
+
+The name Project Lichen arrived in 2026, but the ideas behind it emerged through many years of practical experiments with food, seed, soil, water, land, community and technology.
+
+There was no original master plan.
+
+One project led to another.
+
+Questions encountered in one place reappeared somewhere else.
+
+Seed saving led toward questions of reproduction and resilience.
+
+Food growing led toward soil, water, biodiversity and pollinators.
+
+Community projects raised questions about coordination and shared knowledge.
+
+Technology raised questions about distance, dependency and where capability resides.
+
+Gradually, relationships that had once appeared to belong to separate subjects began to look like parts of the same inquiry.
+
+Project Lichen became a way of connecting them.
+
+This chronology records some of that path.
 
 ---
 
-Project Lichen views ecosystems as interconnected living systems and...
+## Before Project Lichen
 
-It all started in 2011 in Hermosa Beach, California and nearby El Segundo, both are part of Greater LA in Southern California.  Here are highlights of how all emerged and evolved [and here is a pictorial record of most of this](https://incredibleedibleeugene.wordpress.com/blog/)   
+The following history predates the name.
+
+It matters because Project Lichen grew from practice before it became a framework.
+
+It all started in 2009 in Hermosa Beach, California and nearby El Segundo, both are part of Greater LA in Southern California.  Here are highlights of how all emerged and evolved [and here is a pictorial record of most of this](https://incredibleedibleeugene.wordpress.com/blog/)   
 
 **2009** Mike Brunt (me) met Alexandra Bwye who will recur here.
 
