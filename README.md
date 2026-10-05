@@ -55,6 +55,7 @@ E-Cropolis explores the possibility of a city learning to become a living system
 - 🌾 [Seed Library](seed-library.md)
 - 🔬 [Research Library](research.md)
 - 💻 [Technology](technology.md)
+- 💻 [Data Distance](data-distance.md)
 - 🌍 [E-Cropolis](e-cropolis.md)
 - 🍲 [Recipes](recipes.md)
 - 🌍 [The Commons](commons.md)
