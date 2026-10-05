@@ -1,4 +1,4 @@
-# About Us - Origins & Evolution
+# Origins & Evolution
 
 > **Project Lichen did not begin as a theoretical framework.**
 
