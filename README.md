@@ -1,6 +1,6 @@
 # Project Lichen
 
-![E-Cropolis — Cities That Grow](Project%20Lichen_%20E-Cropolis%20Poster-small.png)
+![Project Lichen](lichenheader.png)
 
 ## Stewardship Across Generations — And What Capabilities Remain?
 
