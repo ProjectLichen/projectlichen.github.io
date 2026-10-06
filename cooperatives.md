@@ -470,3 +470,5 @@ But many locally autonomous participants connected by relationships of stewardsh
 **A network capable of becoming stronger through connection without requiring its participants to become less themselves.**
 
 That may be one of the most important meanings of *Stewardship Across Generations*.
+
+← [Home](README.md)
