@@ -258,6 +258,9 @@ The ambition is not to make every community into a miniature data centre.
 
 It is to ask whether computing can become a modest, accountable participant in the places where life already happens.
 
+[Home](README.md)
+
+
 > **Data DeCentre: where intelligence is distributed, but responsibility isn't diluted.**
 
 ---
