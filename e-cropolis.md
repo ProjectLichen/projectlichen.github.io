@@ -4,6 +4,8 @@
 
 > **A city learning to become a living system.**
 
+[Github Repository for E-Cropolis](https://github.com/CFWHISPERER/e-cropolis/tree/main)
+
 E-Cropolis is an experimental Project Lichen extension of the ideas embodied in SimCity and its open-source descendant, Micropolis.
 
 The city remains.
